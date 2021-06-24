@@ -8,7 +8,7 @@
     "start": "cross-env NODE_ENV=production node app.js",
     "test": "cross-env NODE_ENV=test node app.js",
     "build": "cross-env NODE_ENV=heroku node app.js",
-	"heroku": "node ./node_modules/.bin/pm2-runtime start ecosystem.config.js --env heroku"
+    "heroku": "node ./node_modules/.bin/pm2-runtime start ecosystem.config.js --env heroku"
   },
   "keywords": [],
   "author": "",
@@ -30,11 +30,11 @@
     "mongoose": "^5.9.18",
     "mongoose-sex-page": "^1.2.4",
     "morgan": "^1.10.0",
-	"cross-env": "^7.0.3",
-	"pm2": "^5.1.0"
+    "cross-env": "^7.0.3",
+    "pm2": "^5.1.0"
   },
   "engines": {
-	"node": "v14.16.1",
-	"npm": "6.14.12"
+    "node": "v14.16.1",
+    "npm": "6.14.12"
   }
 }
