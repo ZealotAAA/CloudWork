@@ -1,0 +1,22 @@
+{
+    "title": "heroku Manage",
+    "host": "127.0.0.1",
+	"port": 80,
+    "mongodbCloud":{
+        "url": "https://cloud.mongodb.com/v2/60d0a420ebcf9c023cb62b7b#security/database/users",
+        "user":"xu.yiping0001@stud.hkr.se",
+        "pwd":"xyp123456`"
+    },
+    "db": {
+        "user": "xuyiping0001",
+        "pwd": "xyp123456`",
+        "host": "localhost",
+        "port": "27017",
+        "name": "blog"
+    },
+    "CMSUSER": {
+        "username": "fwx",
+        "mail": "fwx@123.com",
+        "pwd": "fwx"
+    }
+}
