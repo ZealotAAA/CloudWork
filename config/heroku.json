@@ -1,7 +1,7 @@
 {
     "title": "heroku Manage",
     "host": "127.0.0.1",
-	"port": 80,
+	"port": 8080,
     "mongodbCloud":{
         "url": "https://cloud.mongodb.com/v2/60d0a420ebcf9c023cb62b7b#security/database/users",
         "user":"xu.yiping0001@stud.hkr.se",
