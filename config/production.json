@@ -1,7 +1,7 @@
 {
     "title": "Blog management system ---- production environment",
     "host": "127.0.0.1",
-	"port": 81,
+	"port":8080,
     "db": {
         "user": "fwx",
         "pwd": "fwx5618177",
